@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=shakt16
+pkg_origin=habitat-labs
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
